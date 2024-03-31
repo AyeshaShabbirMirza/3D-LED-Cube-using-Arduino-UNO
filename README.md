@@ -40,5 +40,4 @@ Connect the LED's positive terminal to the Arduino Uno's 3.3V pin and its negati
 - The code is uploaded to the Arduino.
 - Then, link the Arduino cable to the device so that you may supply power and analyze the output.
 
-## Conclusion
 The 3D LED Cube project offers a fun and educational way to explore electronics and programming concepts. By creating visually stunning light patterns, it demonstrates the principles of microcontroller control and LED technology. With its interactive design and customizable patterns, it can serve as an engaging project for hobbyists and students alike.
